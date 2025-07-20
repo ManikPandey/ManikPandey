@@ -43,10 +43,10 @@ Some Where from Himalaya🏔
 
 ## 🏅 Digital Badges & Certifications
 
-[![My Certification](badges/my_badge.png)](https://www.credly.com/badges/your-badge-id)
-[![Oracle Generative AI Professional](https://images.credly.com/size/110x110/images/404ae314-f530-4d1e-a9fa-b3d21996b9b4/image.png)](https://www.credly.com/badges/404ae314-f530-4d1e-a9fa-b3d21996b9b4/public_url)
-[![IBM Badge](https://images.credly.com/size/110x110/images/ec32b955-c368-4336-acb3-90cb5ccff0a0/image.png)](https://www.credly.com/badges/ec32b955-c368-4336-acb3-90cb5ccff0a0/public_url)
-[![Another Badge](https://images.credly.com/size/110x110/images/fe272686-a71b-452f-bdd7-d7ee1dd38253/image.png)](https://www.credly.com/badges/fe272686-a71b-452f-bdd7-d7ee1dd38253/public_url)
+[![Oracle Generative AI Professional](badges/OCI25GAIOCP.jpg)](https://www.credly.com/badges/your-badge-id)
+[![Exploratory Data Analysis for Machine Learning](badges/exploratory-data-analysis-for-machine-learning.png)](https://www.credly.com/badges/ec32b955-c368-4336-acb3-90cb5ccff0a0/public_url)
+[![Deep Learning Essentials with Keras](badges/exploratory-data-analysis-for-machine-learning.png)](https://www.credly.com/badges/404ae314-f530-4d1e-a9fa-b3d21996b9b4/public_url)
+[![AWS cloud club](badges/aws-cloud-clubs-machine-learning-camper.png)](https://www.credly.com/badges/fe272686-a71b-452f-bdd7-d7ee1dd38253/public_url)
 
 ## 📈 GitHub Stats
 
