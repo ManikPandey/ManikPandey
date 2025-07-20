@@ -49,13 +49,21 @@ Some Where from Himalaya🏔
 [![AWS cloud club](badges/aws-cloud-clubs-machine-learning-camper.png)](https://www.credly.com/badges/fe272686-a71b-452f-bdd7-d7ee1dd38253/public_url)
 
 ## 📈 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=ManikPandey&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ManikPandey&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManikPandey&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![ManikPandey's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManikPandey&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManikPandey&layout=compact&hide=html,css&theme=radical)
+<h1>Top Contributed Repo<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30a/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30a/512.gif" alt="🌊" width="32" height="32">
+</picture></h1>
+
+![](https://github-contributor-stats.vercel.app/api?username=ManikPandey&limit=5&hide=A&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 Looking for collaboration or mentorship in AI/ML, drones, or full-stack tech?  
 Open to internships | freelance | #Hackathons | let's build cool stuff together!
+
 
 ## 📫 Let's Connect!
 
